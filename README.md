@@ -1,50 +1,56 @@
-# TAPICERÍA JARED - Sitio Web Oficial
+# TAPICERÍA JARED — Sitio Web Oficial
 
-Este repositorio contiene el código fuente para el sitio web corporativo e interactivo de **TAPICERÍA JARED**, un negocio enfocado en el retapizado, restauración y confección de muebles residenciales, comerciales y vestiduras automotrices.
+Sitio web oficial de **Tapicería Jared**, negocio especializado en retapizado, restauración y confección de muebles residenciales, comerciales y vestiduras automotrices.
 
----
+## Descripción del proyecto
 
-## 📋 Descripción del Proyecto
+Página web moderna, elegante y adaptable a dispositivos móviles, desarrollada con HTML5, CSS3 y JavaScript.
 
-El proyecto es una página web moderna, elegante y adaptable (*responsive*) construida desde cero sin dependencias de frameworks ni librerías pesadas. Ofrece una presentación profesional de los servicios de la empresa, una galería de trabajos realizados, secciones informativas y formularios interactivos para contacto, inicio de sesión y registro de usuarios.
+El sitio presenta los servicios del negocio, una galería de trabajos realizados y diferentes opciones para facilitar el contacto con los clientes.
 
----
+## Objetivos
 
-## 🎯 Objetivo de la Página
+- Presentar profesionalmente los servicios de Tapicería Jared.
+- Mostrar trabajos realizados mediante una galería de imágenes.
+- Facilitar las solicitudes de cotización.
+- Ofrecer información sobre el negocio.
+- Incorporar funciones de interacción para los visitantes.
 
-Proporcionar a **Tapicería Jared** una presencia digital profesional que permita:
-- Mostrar el portafolio de trabajos realizados.
-- Informar a los clientes sobre la gama de servicios disponibles.
-- Facilitar la comunicación directa mediante una solicitud de cotización.
-- Permitir la interacción inicial para el registro e inicio de sesión de usuarios.
+## Tecnologías utilizadas
 
----
+- **HTML5:** estructura y contenido.
+- **CSS3:** diseño, estilos y adaptación a diferentes pantallas.
+- **JavaScript (ES6+):** interactividad, navegación y validaciones.
+- **Font Awesome:** iconografía.
+- **Google Fonts:** tipografías.
 
-## 🛠️ Tecnologías Utilizadas
-
-- **HTML5:** Estructura semántica, accesibilidad y maquetación web.
-- **CSS3:** Diseño personalizado con CSS puro, variables CSS, Flexbox, CSS Grid, media queries y transiciones interactivas.
-- **JavaScript (ES6+):** Manipulación del DOM, control de modales, menú navegable móvil, filtro de galería y validaciones avanzadas de formularios.
-- **Font Awesome & Google Fonts:** Iconografía y tipografía (*Cinzel* y *Montserrat*).
-
----
-
-## 📁 Estructura del Proyecto
-
-El proyecto mantiene una estructura modular y limpia organizada de la siguiente manera:
+## Estructura del proyecto
 
 ```text
 TAPICERIA-JARED/
+│
 ├── img/
-│   ├── hero-mueble.jpg
-│   ├── galeria-1.jpg
-│   ├── galeria-2.jpg
-│   ├── galeria-3.jpg
-│   ├── galeria-4.jpg
-│   ├── galeria-5.jpg
-│   ├── galeria-6.jpg
-│   └── taller-nosotros.jpg
+│   ├── 1.png
+│   ├── 2.png
+│   ├── ...
+│   └── 16.png
+│
 ├── index.html
-├── style.css
+├── estilos.css
 ├── script.js
 └── README.md
+```
+
+## Ejecución local
+
+1. Descarga o clona este repositorio.
+2. Abre la carpeta del proyecto.
+3. Ejecuta `index.html` en tu navegador.
+
+## Publicación
+
+El proyecto está preparado para publicarse mediante una plataforma de alojamiento web como Vercel.
+
+---
+
+**Tapicería Jared — Calidad, diseño y restauración en cada detalle.**
